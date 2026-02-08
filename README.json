@@ -13,7 +13,7 @@
             "last_commit": "2026-02-01T08:09:48Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 55934
+            "stars": 55947
           }
         },
         {
@@ -63,7 +63,7 @@
             "last_commit": "2026-01-06T19:10:28Z",
             "owner": "patmood",
             "repo": "pocketbase-typegen",
-            "stars": 781
+            "stars": 782
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2026-01-19T09:12:09Z",
             "owner": "magooney-loon",
             "repo": "pb-ext",
-            "stars": 85
+            "stars": 86
           }
         }
       ],
@@ -317,7 +317,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-07T00:40:08Z",
+            "last_commit": "2026-02-08T00:49:27Z",
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
             "stars": 22
@@ -473,7 +473,7 @@
             "last_commit": "2025-02-14T03:06:31Z",
             "owner": "rohitsangwan01",
             "repo": "pocketbase_server_flutter",
-            "stars": 46
+            "stars": 47
           }
         }
       ],
@@ -634,7 +634,7 @@
             "last_commit": "2026-02-01T08:09:48Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 55934
+            "stars": 55947
           }
         },
         {
@@ -647,7 +647,7 @@
             "last_commit": "2026-02-01T08:09:48Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 55934
+            "stars": 55947
           }
         },
         {
@@ -843,10 +843,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-01-30T02:26:56Z",
+            "last_commit": "2026-02-07T13:45:10Z",
             "owner": "maxpert",
             "repo": "marmot",
-            "stars": 2693
+            "stars": 2694
           }
         },
         {
@@ -1112,10 +1112,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:29:33.155Z",
+    "last_updated": "2026-02-08T04:37:16.741Z",
     "original_repository": "benallfree/awesome-pocketbase",
     "source_repository": "v1nvn/enhansome-pocketbase",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome PocketBase with stars"
   }
 }
