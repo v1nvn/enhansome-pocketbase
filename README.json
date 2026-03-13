@@ -13,7 +13,7 @@
             "last_commit": "2026-03-11T13:03:05Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 56680
+            "stars": 56711
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2026-01-29T18:52:31Z",
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2826
+            "stars": 2828
           }
         },
         {
@@ -138,7 +138,7 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-03-09T19:06:38Z",
+            "last_commit": "2026-03-12T19:06:32Z",
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
             "stars": 231
@@ -173,7 +173,7 @@
             "last_commit": "2026-03-09T03:10:02Z",
             "owner": "benallfree",
             "repo": "pocketpages",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -202,7 +202,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-10T12:39:32Z",
+            "last_commit": "2026-03-12T12:34:07Z",
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-telegram-auth",
             "stars": 49
@@ -634,7 +634,7 @@
             "last_commit": "2026-03-11T13:03:05Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 56680
+            "stars": 56711
           }
         },
         {
@@ -647,7 +647,7 @@
             "last_commit": "2026-03-11T13:03:05Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 56680
+            "stars": 56711
           }
         },
         {
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:20:19.567Z",
+    "last_updated": "2026-03-13T04:19:08.602Z",
     "original_repository": "benallfree/awesome-pocketbase",
     "source_repository": "v1nvn/enhansome-pocketbase",
     "source_repository_description": null,
