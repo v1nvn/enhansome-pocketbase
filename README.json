@@ -13,7 +13,7 @@
             "last_commit": "2026-03-19T06:48:37Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 57099
+            "stars": 57124
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2026-01-29T18:52:31Z",
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2837
+            "stars": 2839
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-03-19T14:14:06Z",
             "owner": "muchobien",
             "repo": "pocketbase-docker",
-            "stars": 522
+            "stars": 523
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2024-12-03T10:25:22Z",
             "owner": "benallfree",
             "repo": "pocketbase-presigned-urls",
-            "stars": 12
+            "stars": 13
           }
         }
       ],
@@ -215,7 +215,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-20T11:10:17Z",
+            "last_commit": "2026-03-25T21:58:42Z",
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-ngrok",
             "stars": 11
@@ -563,7 +563,7 @@
             "last_commit": "2025-08-27T15:04:11Z",
             "owner": "vaphes",
             "repo": "pocketbase",
-            "stars": 538
+            "stars": 539
           }
         },
         {
@@ -634,7 +634,7 @@
             "last_commit": "2026-03-19T06:48:37Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 57099
+            "stars": 57124
           }
         },
         {
@@ -647,7 +647,7 @@
             "last_commit": "2026-03-19T06:48:37Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 57099
+            "stars": 57124
           }
         },
         {
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-25T04:27:00.453Z",
+    "last_updated": "2026-03-26T04:39:10.813Z",
     "original_repository": "benallfree/awesome-pocketbase",
     "source_repository": "v1nvn/enhansome-pocketbase",
     "source_repository_description": null,
