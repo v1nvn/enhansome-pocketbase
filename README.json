@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-30T18:38:18Z",
+            "last_commit": "2026-04-02T18:03:07Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 57298
+            "stars": 57318
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2026-01-29T18:52:31Z",
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2841
+            "stars": 2840
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2026-01-14T18:14:14Z",
             "owner": "pocketbase",
             "repo": "dart-sdk",
-            "stars": 691
+            "stars": 692
           }
         }
       ],
@@ -76,7 +76,7 @@
             "last_commit": "2026-03-19T14:14:06Z",
             "owner": "muchobien",
             "repo": "pocketbase-docker",
-            "stars": 523
+            "stars": 524
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-03-23T03:18:49Z",
             "owner": "mrwyndham",
             "repo": "pocketbase-stripe",
-            "stars": 216
+            "stars": 217
           }
         },
         {
@@ -202,7 +202,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-26T12:26:24Z",
+            "last_commit": "2026-04-02T11:25:00Z",
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-telegram-auth",
             "stars": 49
@@ -275,7 +275,7 @@
             "last_commit": "2026-03-03T22:24:08Z",
             "owner": "magooney-loon",
             "repo": "pb-ext",
-            "stars": 105
+            "stars": 106
           }
         }
       ],
@@ -537,7 +537,7 @@
             "last_commit": "2025-12-24T02:42:38Z",
             "owner": "agrevster",
             "repo": "pocketbase-kotlin",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -631,10 +631,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-30T18:38:18Z",
+            "last_commit": "2026-04-02T18:03:07Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 57298
+            "stars": 57318
           }
         },
         {
@@ -644,10 +644,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-03-30T18:38:18Z",
+            "last_commit": "2026-04-02T18:03:07Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 57298
+            "stars": 57318
           }
         },
         {
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-02T04:35:55.976Z",
+    "last_updated": "2026-04-03T04:36:05.660Z",
     "original_repository": "benallfree/awesome-pocketbase",
     "source_repository": "v1nvn/enhansome-pocketbase",
     "source_repository_description": null,
